@@ -1,3 +1,6 @@
+# Buildpack for Giraffe - Rails/Angular application
+- [guide](http://blog.arkency.com/2015/10/creating-custom-heroku-buildpack-for-webpack-and-ruby-on-rails-integration/)
+
 # Heroku Buildpack for Node.js
 
 ![nodejs](https://cloud.githubusercontent.com/assets/51578/13712672/efdf2a40-e792-11e5-82ef-492478cbc0dc.png)
