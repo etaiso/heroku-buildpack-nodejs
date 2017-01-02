@@ -134,9 +134,6 @@ header "Building dependencies"
 build_dependencies | output "$LOG_FILE"
 npm install
 
-header "ng-build"
-npm run build
-
 cache_build() {
   local cache_directories=$(get_cache_directories)
 
